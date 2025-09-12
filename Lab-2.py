@@ -121,3 +121,4 @@ if __name__ == "__main__":
     print("\nFinal Best Solution:")
     print("Best solution found:", best_solution)
     print("Best fitness:", best_fitness)
+
